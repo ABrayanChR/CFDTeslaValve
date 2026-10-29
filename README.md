@@ -20,17 +20,30 @@ The valve's design allows smooth fluid flow in the forward direction. However, w
 
 ### Water at 1 m/s
 * **Reverse Direction (Blocking):** Exhibits strong hydrodynamic resistance with a pressure drop of $5685~Pa$ and a diodicity of $5.20$.
-![Reverse Velocity 1 m/s](velocidadinversa1ms_2.png)
+
+<img width="1403" height="736" alt="velocidadinversa1ms" src="https://github.com/user-attachments/assets/83136c09-ea10-44ee-b5ad-12ef0da729e1" />
+
 
 * **Forward Direction:** Stable flow with minimal energy dissipation and a pressure drop of only $1094~Pa$.
-![Forward Velocity 1 m/s](velocidaddirecta1ms_2.png)
+
+<img width="1392" height="724" alt="velocidaddirecta1ms" src="https://github.com/user-attachments/assets/ebb26ec6-a59f-4d1a-a5be-683b5714fca2" />
+
 
 ### Water at 2 m/s
 * **Forward Direction:** The higher initial velocity increases wall friction and generates higher vorticity.
 * **Diodicity:** This increased friction causes kinetic energy dissipation in the forward flow, slightly reducing the overall diodicity to $4.76$.
-![Forward Velocity 2 m/s](velocidaddirecta2ms_2.png)
+<img width="1373" height="738" alt="velocidaddirecta2ms" src="https://github.com/user-attachments/assets/49638463-f419-481c-8247-4d89fcccaba4" />
+
+* **Reverse Direction (Blocking)**
+
+<img width="1402" height="726" alt="velocidadinversa2ms" src="https://github.com/user-attachments/assets/5a722b62-7dc9-4d58-bb73-649f4ab11944" />
 
 ### Air at 20 m/s
 * **Compressibility and Density Effects:** Due to its lower density, air requires much higher initial velocities ($20~m/s$) to reach a high Reynolds number.
 * **Diodicity:** Being a compressible fluid, air dampens part of the restrictive effect of the lateral cavities, which lowers the diodicity to $3.63$.
-![Forward Velocity Air 20 m/s](velocidaddirectaaire20ms_2.jpg)
+
+<img width="1382" height="723" alt="velocidaddirectaaire20ms" src="https://github.com/user-attachments/assets/7d88eff5-d80b-4bf7-9004-78da2f7acff5" />
+
+* **Reverse Direction (Blocking)**
+
+<img width="1381" height="729" alt="presioninversa20msaire" src="https://github.com/user-attachments/assets/a3d14009-bc1f-4c04-9107-0efee0434418" />
