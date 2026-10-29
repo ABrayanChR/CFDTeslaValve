@@ -6,7 +6,7 @@ This project contains the hydrodynamic study and Computational Fluid Dynamics (C
 * **Geometry and Meshing:** Uses OpenCASCADE for the base geometry (`.step`) and GMSH to generate the detailed 3D mesh.
 * **Navier-Stokes Resolution:** The numerical simulation solves the Navier-Stokes equations for both incompressible and compressible fluids.
 * **Theoretical Analysis:** Calculation of diodicity (the ratio between reverse and forward pressure drops) and comparative analysis of Reynolds and Euler numbers.
-* **Case Studies:** The experimental analysis includes water at $1~m/s$ and $2~m/s$, as well as air at $20~m/s$.
+* **Case Studies:** The experimental analysis includes water at $1m/s$ and $2m/s$, as well as air at $20m/s$.
 
 ## File Structure
 * `tesla_valve_2.step`: Original 3D CAD model.
